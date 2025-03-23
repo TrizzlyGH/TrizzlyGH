@@ -1,8 +1,4 @@
-## Hi there 👋
-
-Welcome to my GitHub profile! I'm excited to share my journey as an aspiring developer and AI enthusiast. Below you'll find more about me, my tech stack, and how to connect.
-
----
+![Image](https://github.com/user-attachments/assets/ed8e0664-386f-4ca0-972d-cf2ebe500797)
 
 <h2 align="center">About</h2>
 
