@@ -2,54 +2,51 @@
 
 <h2 align="center">About</h2>
 
-- 👋 Hello! My name is **Muhammad Nasywan Sulthan Muyassar Arhata**, an undergraduate student majoring in Computer Science/Informatics Engineering at Gunadarma University.
-- 🎓 I am currently following an AI track at Infinite Learning.
-- 💻 Skilled in Full Stack Development:
-  - **Front-end:** (e.g., React)
-  - **Back-end:** (e.g., NodeJS)
-- 🤖 Currently deepening my knowledge in Artificial Intelligence.
-- ⚡ Passionate about exploring innovative technologies and solving challenging problems.
+- 👋 Hi, I'm **Muhammad Nasywan Sulthan Muyassar Arhata**, an Informatics graduate (S.Kom., GPA 3.93/4.00) from Gunadarma University, based in Depok, Indonesia.
+- 🤖 I build **AI/machine learning and computer vision** systems, backed by solid **software engineering** and **project leadership** experience.
+- 🎓 Former AI Developer, Design Researcher (AI Team Lead) & Scrum Master at Infinite Learning, where I led an AI team on a travel app with recommendation, itinerary-planning, and chatbot features.
+- 📈 Background in digital marketing and copywriting, which helps me connect technical work to real users and measurable results.
+- ⚡ Open to opportunities in AI/ML, computer vision, software engineering, and technical project roles.
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+- 🅿️ **Parking Slot Occupancy Detection (Undergraduate Thesis):** a hybrid computer-vision system combining pretrained **YOLOv8m** vehicle detection with a linear **SVM** slot classifier and rule-based fusion. The SVM reached 88.95% accuracy and a 90.64% F1-score on a held-out test set, and the full system ran at 15.92–21.70 FPS across four video scenarios.
+- 🚗 **Indonesian License Plate Recognition (ILPR):** a web-based recognition system built with Python, computer vision, and deep learning for real-time camera input.
+- 🌦️ **Weather Autonomous AI Agent:** a Telegram assistant for current weather and scheduled reminders, built with **n8n**, **FastAPI**, and the OpenWeather API.
+- 🏞️ **RPTRA Srengseng Sawah Web Platform (Project Manager):** a web platform for facility booking and information services, built with **React 18**, **Laravel 11**, and **PostgreSQL**.
+- 🗺️ **Tobaguide (AI Team Lead):** an AI-powered Lake Toba travel app featuring a "For You" recommendation system, an AI itinerary builder, and an in-app chatbot.
 
 ---
 
 <h2 align="center">Tech Stack</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn">
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n">
 </p>
 
 ---
 
-<h2 align="center">Social</h2>
+<h2 align="center">Connect</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/nasywan-arhata/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/realnasywanarhata/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://discord.com/users/818315193683673141" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://github.com/TrizzlyGH" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:nasywanarhata@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
-
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrizzlyGH&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="50%" align="left"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TrizzlyGH&theme=dark" width="50%" align="left">
-</div>
-<div align="center">
-  <a href="https://github.com/TrizzlyGH" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrizzlyGH&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</div>
 
 ---
 
